@@ -1,4 +1,3 @@
-
 def print_result(func_to_decorate):
 
     def decoreate_func(*args, **kwargs):
