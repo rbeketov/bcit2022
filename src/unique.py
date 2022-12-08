@@ -1,5 +1,3 @@
-from gen_random import gen_random
-
 class Unique:
     def __init__(self, data, **kwargs):
         self.used_elements = set() 
